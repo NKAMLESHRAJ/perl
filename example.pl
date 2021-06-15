@@ -1,6 +1,6 @@
 #!/usr/bin/perl -w
 
-use warnings;
+#use warnings;
 use strict;
 print "Hello, world\n";
 
